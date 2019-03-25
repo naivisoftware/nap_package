@@ -1,3 +1,3 @@
-# nap-package
+# NAP Package
 
-Used for tracking nap-package related issues and nap-package releases.
+Used for tracking nap related issues and releases.
