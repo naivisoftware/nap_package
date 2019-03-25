@@ -1,2 +1,3 @@
-# nap-landing
-Currently an issue-only repository for NAP Framework
+# nap-package
+
+Used for tracking nap-package related issues and nap-package releases.
