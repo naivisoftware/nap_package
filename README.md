@@ -25,6 +25,29 @@ Central to NAP are a couple of key philosophies:
 
 Creative fields such as advertisement, film and the performing arts are starting to overlap. Projects are growing in scope to meet demand. Therefore the need for stable and performant interactive software is increasing. Software needs to run for years without having to string together multiple applications or environments. To meet expectations NAP offers you a set of handles to tackle the most demanding creative problems.
 
+## Modules
+
+NAP ships with many useful modules, including (a): 
+
+- 3D OpenGL Render Engine
+- FFmpeg Video
+- Audio Playback, Recording and Analysis
+- Audio Synthesis
+- Font Rendering
+- Websockets
+- OSC
+- Midi
+- Artnet
+- IMGui
+- Parameters and Presets
+- Serial
+- Python
+- SVG
+- Etherdream
+- Yoctopuce
+- Application API Design
+- SQLite Database
+
 ## Installation and Documentation
 
 Follow the instructions here: https://www.napframework.com/doxygen/
