@@ -47,6 +47,7 @@ NAP ships with many useful modules, including (a):
 - Yoctopuce
 - Application API Design
 - SQLite Database
+- Ethercat
 
 ## Installation and Documentation
 
